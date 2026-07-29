@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Dharshan%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Sc.%20AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<svg width="100%" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#bg)" rx="10"/>
+  <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="Consolas, Monaco, monospace" font-size="42" font-weight="bold">Dharshan S</text>
+  <text x="50%" y="68%" dominant-baseline="middle" text-anchor="middle" fill="#2EC866" font-family="Consolas, Monaco, monospace" font-size="17">B.Sc. AI &amp; Data Science | Full-Stack Developer</text>
+</svg>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=2EC866&center=true&vCenter=true&width=650&lines=console.log(%22Hello%2C+World%22)%3B;Building+scalable+full-stack+apps;Training+ML+models+with+XGBoost+%26+SHAP;FastAPI+%2B+Next.js+%2B+PostgreSQL+%2B+Docker;Always+debugging%2C+never+bored+%F0%9F%90%9B" alt="Typing SVG" />
@@ -179,4 +189,13 @@ Data:          Pandas, Chunked Processing
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<svg width="100%" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2c5364"/>
+      <stop offset="100%" stop-color="#0f2027"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" fill="url(#fg)" rx="10"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#2EC866" font-family="Consolas, Monaco, monospace" font-size="14">Thanks for stopping by 👋</text>
+</svg>
