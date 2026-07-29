@@ -1,16 +1,8 @@
 <div align="center">
 
-<svg width="100%" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="100%" stop-color="#2c5364"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="180" fill="url(#bg)" rx="10"/>
-  <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="Consolas, Monaco, monospace" font-size="42" font-weight="bold">Dharshan S</text>
-  <text x="50%" y="68%" dominant-baseline="middle" text-anchor="middle" fill="#2EC866" font-family="Consolas, Monaco, monospace" font-size="17">B.Sc. AI &amp; Data Science | Full-Stack Developer</text>
-</svg>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=48&duration=2500&pause=1500&color=2EC866&background=0D1117&center=true&vCenter=true&width=600&height=90&lines=Dharshan+S;%3C+Developer+%2F%3E;whoami" alt="Name animation" />
+</a>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=2EC866&center=true&vCenter=true&width=650&lines=console.log(%22Hello%2C+World%22)%3B;Building+scalable+full-stack+apps;Training+ML+models+with+XGBoost+%26+SHAP;FastAPI+%2B+Next.js+%2B+PostgreSQL+%2B+Docker;Always+debugging%2C+never+bored+%F0%9F%90%9B" alt="Typing SVG" />
